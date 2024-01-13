@@ -124,4 +124,6 @@ Enable Debugging for the integrator Daemon with -d or -dd:
 
 ## Blog
 
+https://mritsurgeon.blogspot.com/2024/01/orchestrating-cybersecurity-resilience.html
+
 ## Enhancements
